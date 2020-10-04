@@ -1,0 +1,27 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icon.png</file>
+</qresource>
+<qresource>
+    <file>reaction_images/ice_cream.gif</file>
+    <file>reaction_images/burito.gif</file>
+    <file>reaction_images/dance.gif</file>
+    <file>reaction_images/fat_pony.gif</file>
+    <file>reaction_images/happy.gif</file>
+    <file>reaction_images/Hi.gif</file>
+    <file>reaction_images/lazy_bad.gif</file>
+    <file>reaction_images/lazy.gif</file>
+    <file>reaction_images/nom.gif</file>
+    <file>reaction_images/noodle.gif</file>
+    <file>reaction_images/ok.gif</file>
+    <file>reaction_images/sad.gif</file>
+    <file>reaction_images/search.gif</file>
+    <file>reaction_images/sleep.gif</file>
+    <file>reaction_images/sushee.gif</file>
+    <file>reaction_images/TV.gif</file>
+    <file>reaction_images/very_bad.gif</file>
+    <file>reaction_images/wait.gif</file>
+    <file>reaction_images/read.jpg</file>
+    <file>reaction_images/magic.gif</file>
+</qresource>
+</RCC>
